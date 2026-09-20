@@ -1,0 +1,18 @@
+{
+  "name": "IMS Cohort Manager",
+  "short_name": "IMS Mobile",
+  "description": "Elder mobile cohort roster and student manager",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF9F5",
+  "theme_color": "#1E3A8A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
