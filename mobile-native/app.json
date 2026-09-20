@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Cohort Management",
+    "slug": "cohort-management-mobile",
+    "version": "1.0.0",
+    "icon": "./icon.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FAF9F5"
+    },
+    "android": {
+      "package": "com.cohortmanagement.mobile"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea1254e6-4a46-4071-a269-d72ce0643e07"
+      }
+    }
+  }
+}
